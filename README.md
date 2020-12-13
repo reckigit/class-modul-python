@@ -36,5 +36,5 @@ $ cd<br>
 $ git clone https://github.com/reckigit/class-modul-python<br>
 $ cd class-modul-python<br>
 $ chmod +x testing.py<br>
-$ python3 testing.py<br>
+$ python3 runtest.py<br>
     
